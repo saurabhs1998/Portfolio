@@ -1,14 +1,14 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@ydhash12",
-  siteTitle: "Dilip Kumar Portfolio",
-  siteShortTitle: "dk.", // Used as logo text in header, footer, and splash screen
+  siteTitle: "Saurabh Singh Portfolio",
+  siteShortTitle: "SS", // Used as logo text in header, footer, and splash screen
   siteDescription:
-    "Hi there! I'm Dilip Kumar, a frontend engineer and freelance web developer based in Bangalore.",
+    "Hi there! I'm Saurabh Singh, a frontend engineer and freelance web developer based in Noida.",
   siteUrl: "https://konstantin.digital",
   siteLanguage: "en_US",
-  siteIcon: "content/dk.png", // Relative to gatsby-config file
-  seoTitleSuffix: "Dilip Kumar", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
+  siteIcon: "content/ss.png", // Relative to gatsby-config file
+  seoTitleSuffix: "Saurabh Singh", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
   // -- THEME SETTINGS -----
   colors: {
@@ -45,7 +45,7 @@ module.exports = {
   // You can create your own Medium feed with this rss to json converter: https://rss2json.com/
   // To access your Medium RSS feed, just replace this url with your username: https://medium.com/feed/@{yourname}
   mediumRssFeed:
-    " https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40manishkumar199222",
+    " https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40saurabhsingh-58411",
   shownArticles: 3,
 
   //-- SOCIAL MEDIA SETTINGS -----
@@ -54,15 +54,15 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "www.linkedin.com/in/dilip-kumar12/",
+      url: "https://www.linkedin.com/in/saurabh-singh-035365166/",
     },
     {
       name: "Medium",
-      url: "https://medium.com/@manishkumar199222",
+      url: "https://saurabhsingh-58411.medium.com/",
     },
     {
       name: "Github",
-      url: "https://github.com/youngheart12",
+      url: "https://github.com/saurabhs1998",
     },
     // {
     //     name: "Behance",
@@ -99,11 +99,11 @@ module.exports = {
   footerLinks: [
     {
       name: "Facebook",
-      url: "https://www.facebook.com/dilip.kumar.796774/",
+      url: "https://www.facebook.com/profile.php?id=100004901644861/",
     },
     {
       name: "Instagram",
-      url: "https://www.instagram.com/youngheart_dilip/",
+      url: "https://www.instagram.com/singh_9839/",
     },
   ],
 }
